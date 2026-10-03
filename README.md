@@ -1,2 +1,2 @@
 # NeoDark
-A new and modern dark theme for MCreator
+NeoDark is a new and modern dark theme for MCreator.
