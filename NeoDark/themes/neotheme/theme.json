@@ -1,0 +1,13 @@
+{
+    "name": "NeoDark",
+    "description": "Modern dark theme",
+    "credits": "joueur883",
+    "version": "1.0",
+    "colorScheme": {
+      "backgroundColor": "0x151515",
+      "altBackgroundColor": "0x505050",
+      "secondAltBackgroundColor": "0x151515",
+      "foregroundColor": "0xf2f2f2",
+      "altForegroundColor": "0xf2f2f2"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "id": "NeoDark",
+    "supportedversions": [2026003],
+    "weight": 0,
+    "info": {
+        "name": "NeoDark",
+        "description": "Modern dark theme",
+        "author": "joueur883",
+        "version": "1.0.0"
+    }
+}
