@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="64"
-   height="64"
-   viewBox="0 0 16.933333 16.933333"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333333"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   sodipodi:docname="overlay_err.svg"
+   sodipodi:docname="imp_obj.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
-     pagecolor="#262626"
+     pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="11.559708"
-     inkscape:cx="28.936717"
-     inkscape:cy="30.753372"
+     inkscape:zoom="46.238833"
+     inkscape:cx="7.1260449"
+     inkscape:cy="8.5534166"
      inkscape:window-width="1920"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -39,12 +39,18 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:none;stroke:#c82d0c;stroke-width:1.04166;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1-0"
-       width="15.891672"
-       height="15.891669"
-       x="0.52082998"
-       y="0.52082998"
-       ry="1.9416281" />
+       style="fill:#1c89cb;fill-opacity:1;stroke-width:1.83368"
+       id="rect1"
+       width="4.2333331"
+       height="4.2333331"
+       x="0"
+       y="0"
+       ry="0.44719902" />
+    <circle
+       style="fill:#ffffff;stroke-width:0.0410078"
+       id="path1"
+       cx="2.1166666"
+       cy="2.1166666"
+       r="1.5875" />
   </g>
 </svg>
