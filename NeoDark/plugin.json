@@ -1,6 +1,6 @@
 {
     "id": "NeoDark",
-    "supportedversions": [202600338715, 2026003],
+    "supportedversions": [2026002, 202600338715, 2026003],
     "weight": 0,
     "info": {
         "name": "NeoDark",

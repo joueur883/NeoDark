@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="23.119416"
-     inkscape:cx="15.311805"
+     inkscape:cx="15.290179"
      inkscape:cy="16.285013"
      inkscape:window-width="1920"
      inkscape:window-height="1020"
@@ -63,16 +63,10 @@
        cy="4.2333336"
        rx="3.9770031"
        ry="3.9770029" />
-    <text
-       xml:space="preserve"
-       style="font-weight:800;font-size:6.86341px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Ultra-Bold';writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.48707;stroke-opacity:1"
-       x="3.4427671"
-       y="6.700665"
-       id="text1"><tspan
-         sodipodi:role="line"
-         id="tspan1"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.48707"
-         x="3.4427671"
-         y="6.700665">i</tspan></text>
+    <path
+       d="M 3.7644895,6.700665 V 3.1617192 H 4.9173279 V 6.700665 Z M 4.3375574,2.816538 q -0.2781558,0 -0.4557733,-0.1642125 -0.1776176,-0.1642124 -0.1776176,-0.4189093 0,-0.2546968 0.1776176,-0.415558 0.1776175,-0.1642125 0.4557733,-0.1642125 0.2781558,0 0.4557733,0.1642125 0.1809688,0.1608612 0.1809688,0.415558 0,0.2546969 -0.1809688,0.4189093 Q 4.6157132,2.816538 4.3375574,2.816538 Z"
+       id="text1"
+       style="font-weight:800;font-size:6.86341px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Ultra-Bold';fill:#ffffff;stroke-width:1.48707"
+       aria-label="i" />
   </g>
 </svg>
