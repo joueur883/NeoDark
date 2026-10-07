@@ -70,12 +70,6 @@
        x="0"
        y="0" />
     <circle
-       style="fill:#e6a200;stroke:#2b1100;stroke-width:1.16585;stroke-linecap:square;fill-opacity:1"
-       id="path1"
-       cx="8.4666681"
-       cy="8.4666681"
-       r="4.8410349" />
-    <circle
        style="fill:#3f9500;fill-opacity:1;stroke:#2b1100;stroke-width:0.336874;stroke-linecap:square"
        id="path1-3"
        cx="8.4464293"
@@ -95,8 +89,8 @@
        id="rect2-2"
        width="2.1374707"
        height="4.834568"
-       x="-1.8274765"
-       y="15.199963"
+       x="-1.2448328"
+       y="15.329439"
        ry="0.93658859"
        transform="rotate(-45)" />
     <rect
@@ -140,8 +134,8 @@
        id="rect2-1-3"
        width="2.1374707"
        height="4.834568"
-       x="-13.203587"
-       y="-7.8023949"
+       x="-13.235955"
+       y="-7.834764"
        ry="0.93658859"
        transform="rotate(-135)"
        inkscape:transform-center-x="1.6508241"
@@ -151,8 +145,8 @@
        id="rect2-1-3-9"
        width="2.1374707"
        height="4.834568"
-       x="-12.635379"
-       y="3.4506996"
+       x="-12.861962"
+       y="3.4183304"
        ry="0.93658859"
        transform="rotate(-135)"
        inkscape:transform-center-x="1.6508241"
