@@ -2,7 +2,7 @@
     "name": "NeoDark",
     "description": "Modern dark theme",
     "credits": "joueur883",
-    "version": "1.0",
+    "version": "0.6.0",
     "disableMCreatorOverrides": true,
     "flatLafOverrides": {
       "Button.arc": "11",
