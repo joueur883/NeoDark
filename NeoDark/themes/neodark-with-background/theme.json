@@ -2,7 +2,7 @@
     "name": "NeoDark with backgrounds",
     "description": "The NeoDark theme, but with backgrounds!",
     "credits": "joueur883",
-    "version": "1.1",
+    "version": "1.2",
     "disableMCreatorOverrides": true,
     "flatLafOverrides": {
       "Button.arc": "11",
