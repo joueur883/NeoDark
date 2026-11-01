@@ -26,7 +26,7 @@
      inkscape:document-units="px"
      inkscape:zoom="11.559708"
      inkscape:cx="29.023224"
-     inkscape:cy="30.580357"
+     inkscape:cy="31.445431"
      inkscape:window-width="1920"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -77,7 +77,8 @@
        y1="5.8453059"
        x2="13.764117"
        y2="11.493435"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,0.39687511)" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -96,7 +97,7 @@
        width="2.6458333"
        height="2.1166666"
        x="5.4239583"
-       y="1.0583333"
+       y="1.4552083"
        ry="0.22888409" />
     <rect
        style="fill:#415890;fill-opacity:1;stroke-width:2.40038;stroke-linecap:square"
@@ -104,7 +105,7 @@
        width="2.6458333"
        height="2.1166666"
        x="9.6505423"
-       y="1.0583333"
+       y="1.4552083"
        ry="0.22888409" />
     <rect
        style="fill:url(#linearGradient5);fill-opacity:1;stroke-width:2.24896;stroke-linecap:square"
@@ -112,7 +113,7 @@
        width="11.6502"
        height="11.6502"
        x="2.8442707"
-       y="2.8442707"
+       y="3.2411456"
        ry="0.36621457" />
     <rect
        style="fill:#904157;fill-opacity:1;stroke-width:2.62078;stroke-linecap:square"
@@ -120,7 +121,7 @@
        width="2.778125"
        height="1.3229166"
        x="4.7624998"
-       y="5.953125"
+       y="6.3499994"
        ry="0.20599568" />
     <rect
        style="fill:#904157;fill-opacity:1;stroke-width:2.87092;stroke-linecap:square"
@@ -128,7 +129,7 @@
        width="2.778125"
        height="1.5875"
        x="7.3554163"
-       y="10.22318"
+       y="10.620059"
        ry="0.24719481" />
     <rect
        style="fill:#904157;fill-opacity:1;stroke-width:2.62078;stroke-linecap:square"
@@ -136,7 +137,7 @@
        width="2.778125"
        height="1.3229166"
        x="9.921875"
-       y="5.953125"
+       y="6.3499994"
        ry="0.22888409" />
   </g>
 </svg>

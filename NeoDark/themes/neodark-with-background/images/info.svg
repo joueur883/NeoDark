@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="14"
+   height="14"
+   viewBox="0 0 3.7041667 3.7041667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="info.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#262626"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="46.238832"
+     inkscape:cx="7.969492"
+     inkscape:cy="6.0014492"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.346189;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path1"
+       cx="1.8520833"
+       cy="1.8520834"
+       rx="1.6789888"
+       ry="1.6789889" />
+    <path
+       style="font-weight:bold;font-size:3.19889px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Bold';fill:#ffffff;stroke-width:0.533149;stroke-linecap:round;stroke-linejoin:round"
+       d="M 1.6334976,3.0279002 V 1.3784726 h 0.4607776 v 1.6494276 z m 0.2296078,-1.857168 q -0.1140229,0 -0.1889969,-0.068726 -0.074974,-0.070288 -0.074974,-0.17650124 0,-0.10621314 0.074974,-0.1749393 0.074974,-0.0702881 0.187435,-0.0702881 0.1140229,0 0.1889969,0.0702881 0.074974,0.0687262 0.074974,0.1749393 0,0.10621314 -0.074974,0.17650124 -0.074974,0.068726 -0.187435,0.068726 z"
+       id="text1"
+       transform="scale(1.0082851,0.99178298)"
+       aria-label="i" />
+  </g>
+</svg>
